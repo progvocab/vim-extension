@@ -1,0 +1,1 @@
+.stream().filter( element -> nfcond ).collect(Collectors.toList());

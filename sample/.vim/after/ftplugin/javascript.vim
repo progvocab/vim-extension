@@ -1,1 +1,3 @@
-:ab sop :call JsSOP()
+:ab print :call JsSOP()
+:ab rccomp :call ReactClassComponent()
+

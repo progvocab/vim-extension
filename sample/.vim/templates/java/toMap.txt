@@ -1,0 +1,1 @@
+Map<String, ndcname> nmname = nlname.stream().collect(Collectors.toMap(nscname::nkmethod, nscname::nvmethod));

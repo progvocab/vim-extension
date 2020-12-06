@@ -1,4 +1,12 @@
 let g:netrw_dirhistmax  =10
 let g:netrw_dirhistcnt =2
-let g:netrw_dirhist_2='/f/progvocab/repo/vim-extension/docs'
-let g:netrw_dirhist_1='/f/progvocab/repo/orders/cognito'
+let g:netrw_dirhist_2='/f/shahbaz/study/gitRepo/new/learn/reactjs/react-node'
+let g:netrw_dirhist_1='/f/shahbaz/study/gitRepo/new/learn/reactjs/react-node/my-app/src'
+let g:netrw_dirhist_0='/f/shahbaz/study/gitRepo/new/learn/reactjs/react-node/my-app'
+let g:netrw_dirhist_9='/f/shahbaz/study/gitRepo/new/learn/reactjs/react-node'
+let g:netrw_dirhist_8='/f/shahbaz/study/gitRepo/new/learn/reactjs'
+let g:netrw_dirhist_7='/f/shahbaz/study/gitRepo/new/learn/java/lambda/src/main/java/examples'
+let g:netrw_dirhist_6='/f/progvocab/repo/vim-extension/docs'
+let g:netrw_dirhist_5='/f/shahbaz/study/gitRepo/new/learn/java/lambda/src/main/java'
+let g:netrw_dirhist_4='/f/shahbaz/study/gitRepo/new/learn/java/lambda/src/main/java/examples'
+let g:netrw_dirhist_3='/f/shahbaz/study/gitRepo/new/learn/java/lambda/src/main/java'

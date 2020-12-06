@@ -1,0 +1,16 @@
+import React from 'react';
+
+class ncname extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      stateElement: "" 
+    };
+  }
+  render() {
+    return   [ (<div>html</div>)   ] ;
+  }
+}
+
+export default ncname;
+

@@ -1,0 +1,21 @@
+			
+autocmd FileType java nmap <buffer> <F5> :w<bar> ! python /f/progvocab/repo/vim-extension/scripts/javaTemplates.py <cword>  >> % <CR>
+autocmd FileType java nmap <buffer> <F5> :w<bar> ! python /f/progvocab/repo/vim-extension/scripts/javaTemplates.py <cword>  >> % <CR>
+set autoread
+function! Main()
+    r~/.vim/templates/java/main.txt
+endfunction
+function! SOP()
+    r~/.vim/templates/java/sop.txt
+endfunction
+function! JsSOP()
+    r~/.vim/templates/js/sop.txt
+endfunction
+function! TryCatch()
+    r~/.vim/templates/java/trycatch.txt
+endfunction
+
+
+
+
+

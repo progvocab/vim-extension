@@ -32,6 +32,9 @@ endfunction
 function! Pom()
     r~/.vim/templates/xml/pom.txt
 endfunction
+function! PhpMysqlConnection()
+    r~/.vim/templates/php/mysqlConnection.txt
+endfunction
 
 
 
